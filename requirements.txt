@@ -1,0 +1,4 @@
+environs
+instagrapi==1.17.4
+pydantic==1.10.13
+urllib3==1.26.16
